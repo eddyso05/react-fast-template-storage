@@ -1,8 +1,8 @@
 import React from "react";
-import Components from "./components/Test";
+import Test from "./components/Test";
 
 function App() {
-  return <Components />;
+  return <Test />;
 }
 
 export default App;
